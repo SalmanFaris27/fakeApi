@@ -66,6 +66,20 @@
     }
   ],
   "users": [
+      {
+    "id":1,
+    "username":"salman",
+    "password":"1234",
+    "role":"admin",
+    "cart":[]
+  },
+  {
+    "id":2,
+    "username":"faris",
+    "password":"4321",
+    "role":"users",
+    "cart":[]
+  }
   ],
   "transactions": [
   ]
